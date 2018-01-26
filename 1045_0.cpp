@@ -38,7 +38,8 @@ int main() {
 			cout << L[i];
 			count = 1;
 		}
-	}
+    }
+    cout << endl;
 
 	system("pause");
 	return 0;
